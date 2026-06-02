@@ -1,4 +1,4 @@
-# Task 2: Exploratory Data Analysis (EDA)
+# Step 2: Exploratory Data Analysis (EDA)
 
 ## Goal
 Analyze a dataset to understand patterns, 
